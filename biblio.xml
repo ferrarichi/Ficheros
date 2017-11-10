@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblioteca>
+	<libro>
+		<titulo anoPublicacion="2009"> bobo3</titulo>
+		<autor>
+			<nombre />
+			<nombre />
+			<nombre />
+		</autor>
+		<editor>200</editor>
+	</libro>
+</biblioteca>

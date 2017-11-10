@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblioteca>
+	<libro>
+		<titulo anyo="2008">Introduction to Linux</titulo>
+		<autor>
+			<nombre />
+		</autor>
+		<editor>256</editor>
+	</libro>
+	<libro>
+		<titulo anyo="2008">El lenguaje de programación C</titulo>
+		<autor>
+			<nombre />
+			<nombre />
+		</autor>
+		<editor>294</editor>
+	</libro>
+</biblioteca>

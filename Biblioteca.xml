@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+	<libro>
+		<titulo>Introduction to Linux</titulo>
+			<autor>
+			
+				<nombre>Kernighan</nombre>
+			
+			</autor>
+			
+			<anoPublicacion>2008</anoPublicacion>
+		<paginas>256</paginas>
+	</libro>
+	<libro>
+		<titulo>El lenguaje de programación C</titulo>
+			<autor>
+			
+			<nombre>Juanjo</nombre>
+			<nombre>Juanjo</nombre>
+			
+			</autor>
+		 <anoPublicacion>2008</anoPublicacion>
+		<paginas>294</paginas>
+	</libro>
+</biblioteca>
